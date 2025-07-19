@@ -84,3 +84,6 @@ This project was built as a solo effort to strengthen front-end web development 
 📌 Conclusion
 The Interactive Quiz Application is more than just a basic web app—it’s a solid example of how core web technologies can be combined to build meaningful, user-friendly interfaces. Whether you're using it to learn, test your knowledge, or explore JavaScript projects, this quiz app delivers a compact, engaging experience.
 
+#OUTPUT
+
+https://github.com/user-attachments/assets/42ce2047-9ab2-4d69-81ea-021feed24a7d
